@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EEngvall
 - 🌱 I’m currently learning ... <br />
   --OpenGL <br />
-  --Kotlin <br />
+  --Swift <br />
 - 📫 How to reach me ... <br />
   --Instagram @eengvall <br />
   --Twitter @eengvall5
