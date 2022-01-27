@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EEngvall
 - 🌱 I’m currently learning ... <br />
-  --OpenGL <br />
   --Swift <br />
+  --PHP <br />
+  --SQL <br />
 - 📫 How to reach me ... <br />
   --Instagram @eengvall <br />
   --Twitter @eengvall5
