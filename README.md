@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EEngvall
 - 🌱 I’m currently learning ... <br />
-  --Swift <br />
-  --PHP <br />
+  --MongoDB <br />
+  --Python(Django) <br />
   --SQL <br />
 - 📫 How to reach me ... <br />
   --Instagram @eengvall <br />
